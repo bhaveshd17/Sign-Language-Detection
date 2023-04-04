@@ -1,8 +1,8 @@
 # Sign Language Detection Using Tensorflow Object Detection
 
-In this project, we have proposed a system which can be used to detect different static hand gestures using Transfer Learning, python and OpenCv in real-time. Common  words used in conversations such as – Thank You, Live Long, Thumbs Up, Thumbs Down are translated into sign language and are successfully recognized by our system.
+In this project, a system can be used to detect different static hand gestures using Transfer Learning, python and OpenCv in real-time. Common  words used in conversations such as – Thank You, Live Long, Thumbs Up, Thumbs Down are translated into sign language and are successfully recognized by our system.
 
-- Demonstration video
+-- Demonstration video
 
 
 
